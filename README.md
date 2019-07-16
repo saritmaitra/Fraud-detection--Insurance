@@ -1,8 +1,7 @@
 # Fraud-detection-Insurance
 Fraud is causing billions of $$ in loss for insurance industry. This project has attempted to develop a ML algorithm to detect. 
 The project has used the historical transaction data including normal transactions and fraud ones to obtain normal/fraud behavior features 
-based on machine learning techniques, and utilized these features to check if a transaction is fraud or not. Two kinds of Random Forest 
-and Decesion Tree based classifier are used in this project to train the behavior features of normal and abnormal transactions.
+based on machine learning techniques, and utilized these features to check if a transaction is fraud or not. A cmparative study has been conducted to decide which classifier is best for this project to train the behavior features of normal and abnormal transactions.
 # Objective
 The objective is to construct a model to predict which transactions could be fraudulent with high accuracy.
 # Plan
